@@ -1,0 +1,10 @@
+body{
+	background-image: linear-gradient(#2874A6, #D0D3D4);
+}
+.login{
+	background-color:white;
+	margin-top:100px;
+	padding:15px;
+	/*background:transparent;*/
+	
+}
